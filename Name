@@ -1,54 +1,54 @@
 str = raw_input('Enter your name:')
 str = str[0:3:2]
 if str[0] == 'A' or str[0] == 'a':
-    str1 = Shitty
+    str1 = 'Shitty'
 if str[0] == 'B' or str[0] == 'b':
-    str1 = Faggy
+    str1 = 'Faggy'
 if str[0] == 'C' or str[0] == 'c':
-    str1 = Poopy
+    str1 = 'Poopy'
 if str[0] == 'D' or str[0] == 'd':
-    str1 = Ass
+    str1 = 'Ass'
 if str[0] == 'E' or str[0] == 'e':
-    str1 = Dick
+    str1 = 'Dick'
 if str[0] == 'F' or str[0] == 'f':
-    str1 = Lil
+    str1 = 'Lil'
 if str[0] == 'G' or str[0] == 'g':
-    str1 = Twisted
+    str1 = 'Twisted'
 if str[0] == 'H' or str[0] == 'h':
-    str1 = Funny
+    str1 = 'Funny'
 if str[0] == 'I' or str[0] == 'i':
-    str1 = Flat
+    str1 = 'Flat'
 if str[0] == 'J' or str[0] == 'j':
-    str1 = Fat
+    str1 = 'Fat'
 if str[0] == 'K' or str[0] == 'k':
-    str1 = Dong
+    str1 = 'Dong'
 if str[0] == 'L' or str[0] == 'l':
-    str1 = Crap
+    str1 = 'Crap'
 if str[0] == 'M' or str[0] == 'm':
-    str1 = Raging
+    str1 = 'Raging'
 if str[0] == 'N' or str[0] == 'n':
-    str1 = Sad
+    str1 = 'Sad'
 if str[0] == 'O' or str[0] == 'o':
-    str1 = Pathetic
+    str1 = 'Pathetic'
 if str[0] == 'P' or str[0] == 'p':
-    str1 = Lonely
+    str1 = 'Lonely'
 if str[0] == 'Q' or str[0] == 'q':
-    str1 = Vag
+    str1 = 'Vag'
 if str[0] == 'R' or str[0] == 'r':
-    str1 = Butthole
+    str1 = 'Butthole'
 if str[0] == 'S' or str[0] == 's':
-    str1 = Cum
+    str1 = 'Cum'
 if str[0] == 'T' or str[0] == 't':
-    str1 = Fanny
+    str1 = 'Fanny'
 if str[0] == 'U' or str[0] == 'u':
-    str1 = Sucks
+    str1 = 'Sucks'
 if str[0] == 'V' or str[0] == 'v':
-    str1 = Farting
+    str1 = 'Farting'
 if str[0] == 'W' or str[0] == 'w':
-    str1 = Stinky
+    str1 = 'Stinky'
 if str[0] == 'X' or str[0] == 'x':
-    str1 = Herpes
+    str1 = 'Herpes'
 if str[0] == 'Y' or str[0] == 'y':
-    str1 = Fairy
+    str1 = 'Fairy'
 if str[0] == 'Z' or str[0] == 'z':
-    str1 = Crazy
+    str1 = 'Crazy'
