@@ -52,3 +52,56 @@ if str[0] == 'Y' or str[0] == 'y':
     str1 = Fairy
 if str[0] == 'Z' or str[0] == 'z':
     str1 = Crazy
+if str[1] == 'A' or char == 'a':
+    str2 = 'Donkey'
+if str[1] == 'B' or char == 'b':
+    str2 = 'Goblin'
+if str[1] == 'C' or char == 'c':
+    str2 = 'Dumpster'
+if str[1] == 'D' or char == 'd':
+	str2 = 'Thief'
+if str[1] == 'E' or char == 'e':
+	str2 = 'Garage'
+if str[1] == 'F' or char == 'f':
+	str2 = 'Enthusiast'
+if str[1] == 'G' or char == 'g':
+	str2 = 'Troll'
+if str[1] == 'H' or char == 'h':
+	str2 = 'Magician'
+if str[1] == 'I' or char == 'i':
+	str2 = 'Yetti'
+if str[1] == 'J' or char == 'j':
+	str2 = 'Gremlin'
+if str[1] == 'K' or char == 'k':
+	str2 = 'Officer'
+if str[1] == 'L' or char == 'l':
+	str2 = 'Comedian'
+if str[1] == 'M' or char == 'm':
+	str2 = 'Cloth'
+if str[1] == 'N' or char == 'n':
+	str2 = 'Rag'
+if str[1] == 'O' or char == 'o':
+	str2 = 'Bag'
+if str[1] == 'P' or char == 'p':
+	str2 = 'Scum'
+if str[1] == 'Q' or char == 'q':
+	str2 = 'Whore'
+if str[1] == 'R' or char == 'r':
+	str2 = 'Wizard'
+if str[1] == 'S' or char == 's':
+	str2 = 'Jizz'
+if str[1] == 'T' or char == 't':
+	str2 = 'Tampon'
+if str[1] == 'U' or char == 'u':
+	str2 = 'Mongoloid'
+if str[1] == 'V' or char == 'v':
+	str2 = 'Ginger'
+if str[1] == 'W' or char == 'w':
+	str2 = 'Nazi'
+if str[1] == 'X' or char == 'x':
+	str2 = 'Cunt'
+if str[1] == 'Y' or char == 'y':
+	str2 = 'Facial'
+if str[1] == 'Z' or char == 'z':
+	str2 = 'Lips'
+print (str1 + ' ' + str2)
