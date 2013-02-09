@@ -52,56 +52,56 @@ if str[0] == 'Y' or str[0] == 'y':
     str1 = 'Fairy'
 if str[0] == 'Z' or str[0] == 'z':
     str1 = 'Crazy'
-if str[1] == 'A' or char == 'a':
+if str[1] == 'A' or str[1] == 'a':
     str2 = 'Donkey'
-if str[1] == 'B' or char == 'b':
+if str[1] == 'B' or str[1] == 'b':
     str2 = 'Goblin'
-if str[1] == 'C' or char == 'c':
+if str[1] == 'C' or str[1] == 'c':
     str2 = 'Dumpster'
-if str[1] == 'D' or char == 'd':
+if str[1] == 'D' or str[1] == 'd':
 	str2 = 'Thief'
-if str[1] == 'E' or char == 'e':
+if str[1] == 'E' or str[1] == 'e':
 	str2 = 'Garage'
-if str[1] == 'F' or char == 'f':
+if str[1] == 'F' or str[1] == 'f':
 	str2 = 'Enthusiast'
-if str[1] == 'G' or char == 'g':
+if str[1] == 'G' or str[1] == 'g':
 	str2 = 'Troll'
-if str[1] == 'H' or char == 'h':
+if str[1] == 'H' or str[1] == 'h':
 	str2 = 'Magician'
-if str[1] == 'I' or char == 'i':
+if str[1] == 'I' or str[1] == 'i':
 	str2 = 'Yetti'
-if str[1] == 'J' or char == 'j':
-	str2 = 'Gremlin'
-if str[1] == 'K' or char == 'k':
+if str[1] == 'J' or str[1] == 'j':
+	str2 = 'str[1]'
+if str[1] == 'K' or str[1] == 'k':
 	str2 = 'Officer'
-if str[1] == 'L' or char == 'l':
+if str[1] == 'L' or str[1] == 'l':
 	str2 = 'Comedian'
-if str[1] == 'M' or char == 'm':
+if str[1] == 'M' or str[1] == 'm':
 	str2 = 'Cloth'
-if str[1] == 'N' or char == 'n':
+if str[1] == 'N' or str[1] == 'n':
 	str2 = 'Rag'
-if str[1] == 'O' or char == 'o':
+if str[1] == 'O' or str[1] == 'o':
 	str2 = 'Bag'
-if str[1] == 'P' or char == 'p':
+if str[1] == 'P' or str[1] == 'p':
 	str2 = 'Scum'
-if str[1] == 'Q' or char == 'q':
+if str[1] == 'Q' or str[1] == 'q':
 	str2 = 'Whore'
-if str[1] == 'R' or char == 'r':
+if str[1] == 'R' or str[1] == 'r':
 	str2 = 'Wizard'
-if str[1] == 'S' or char == 's':
+if str[1] == 'S' or str[1] == 's':
 	str2 = 'Jizz'
-if str[1] == 'T' or char == 't':
+if str[1] == 'T' or str[1] == 't':
 	str2 = 'Tampon'
-if str[1] == 'U' or char == 'u':
+if str[1] == 'U' or str[1] == 'u':
 	str2 = 'Mongoloid'
-if str[1] == 'V' or char == 'v':
+if str[1] == 'V' or str[1] == 'v':
 	str2 = 'Ginger'
-if str[1] == 'W' or char == 'w':
+if str[1] == 'W' or str[1] == 'w':
 	str2 = 'Nazi'
-if str[1] == 'X' or char == 'x':
+if str[1] == 'X' or str[1] == 'x':
 	str2 = 'Cunt'
-if str[1] == 'Y' or char == 'y':
+if str[1] == 'Y' or str[1] == 'y':
 	str2 = 'Facial'
-if str[1] == 'Z' or char == 'z':
+if str[1] == 'Z' or str[1] == 'z':
 	str2 = 'Lips'
 print (str1 + ' ' + str2)
